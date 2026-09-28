@@ -1,0 +1,33 @@
+# Cloudflare Tunnel credentials
+.cloudflared/
+cert.pem
+*-credentials.json
+
+# Nextcloud secrets and user data
+config.php
+nextcloud-data/
+data/
+
+# Environment files, keys, and certificates
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Backups and database dumps
+*.sql
+*.sql.gz
+*.bak
+*.backup
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
