@@ -26,6 +26,7 @@ Cloudflare Tunnel uses an outbound connection from the Pi, so the planned setup 
 
 ## Documentation
 
+- [Complete Raspberry Pi cloud-server deployment write-up](docs/DEPLOYMENT-WRITEUP.md)
 - [Original local installation and troubleshooting record](docs/LOCAL-SETUP.md)
 - [Cloudflare Tunnel public-access upgrade](docs/CLOUDFLARE-TUNNEL.md)
 - [Security checklist](docs/SECURITY-CHECKLIST.md)
